@@ -1,0 +1,11 @@
+﻿{
+  "CansatGroundProperties": 
+  {
+    "TeamID": 3131,
+    "CSVFileRoute": "CansatKhazarUniversity.csv",
+    "XbeeProperties": {
+      "BaudRate": 57600,
+      "PortName": "COM1"
+    }
+  }
+}
