@@ -1,3 +1,5 @@
 ﻿/CansatGround.csproj
 CansatKhazarUniversity.csv
 appsettings.Development.json
+/bin
+/obj
